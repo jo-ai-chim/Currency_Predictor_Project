@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Instructions] (#instructions)
+2. [Instructions](#instructions)
 3. [Project Motivation](#motivation)
 4. [Files](#files)
 5. [Results](#results)
