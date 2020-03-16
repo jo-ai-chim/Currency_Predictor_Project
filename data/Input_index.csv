@@ -1,0 +1,52 @@
+﻿Country;Index
+Argentina;^MERV
+Australia;^AORD
+Austria;ATXI
+Belgium;^BFX
+Brazil;^IBX50
+Canada;CLYLF
+China;^SSEC
+Colombia;WICOL.FGI
+Croatia;0WVN.DE
+Cyprus;^DJCY10
+Czech Republic;PX-GLOB.PR
+Denmark;^OMX
+Egypt;^CASE30
+Finland;^OMXH25
+France;^FCHI
+Germany;^GDAXI
+Hong Kong;^HSI
+Iceland;^IX9000PI
+India;^BSESN
+Indonesia;LVFIDN.FGI
+Iran;TEPIX
+Ireland;WIIRL.FGI
+Israel;^TA125.TA
+Italy;ITLMS.MI
+Japan;^N225
+Kenya;FNKEN1.FGI
+Malaysia;^KLSE
+Mexico;^MXX
+Morocco;FCSE.FGI
+Netherlands;^AEX
+New Zealand;^NQNZNZD
+Norway;OBXP.OL
+Pakistan;WIPAK.FGI
+Peru;WIPER.FGI
+Philippines;WIPHL.FGI
+Poland;0Q5V.DE
+Portugal;PSI20.LS
+Romania;DE000SLA5BY0.SG
+Russia;RTSI.ME
+Saudi Arabia;^TASI.SR
+Singapore;^STI
+South Korea;^KOSPI
+Spain;^IBEX
+Sweden;^OMX
+Switzerland;WICHE.FGI
+Taiwan;TTDRIN.TW
+Thailand;^SET.BK
+Turkey;XU100.IS
+United Kingdom;^FTSE
+United States;^DJI
+Vietnam;FVTT.FGI
