@@ -70,6 +70,8 @@ Since this is only a first analysis to check if it is possible to make mulitvari
 - Based on the analyses we can expect an improvement by simply adding more indices or whole different features like the gold price to the input. 
 - The gridsearch was almost at it's limit. Therefore we needed to make some restrictions. Here there are quite a view options to optimize the model further. First of all the scaler could be checked (maybe for some models a RobustScaler, QuantileTransformer, or Normalizer would lead to a better performance). Also the functions (like the train test split and the creation of the timedata features) could be implemented as transformers and then be considered during the gridsearch.
 
+**The main findings of the code can be found at the post available [here](https://jo-ai-chim.github.io/Currency_Predictor/).**
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 I want to give credit for providing the data to the following sources:
